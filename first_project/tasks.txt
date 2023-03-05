@@ -1,3 +1,4 @@
 Task List
 -Obtain the data
 -Summarize key variables
+-Write short report (this was added directly from github)
